@@ -11,7 +11,7 @@ const StyledHeader = styled.div`
 
         h1 {
             font-weight: normal;
-            font-size: 3vh;
+            font-size: 30vh;
             color: #FFF;
         }
 `
